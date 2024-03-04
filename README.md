@@ -1,6 +1,8 @@
 # intro-to-react
 # 7-0-0-intro-to-react
 
+**BEN'S UPDATED NOTES:** https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23/blob/main/README.md
+
 Key Topics:
 
 - React
